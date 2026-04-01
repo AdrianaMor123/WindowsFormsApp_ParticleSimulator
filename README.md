@@ -8,10 +8,19 @@ An interactive real-time particle simulator built with **C++** and **SFML 2.x**.
 
 **5 Particle Modes**
 - 🔥 Fire — warm rising flames that fade to dark embers
+  <img width="579" height="457" alt="image" src="https://github.com/user-attachments/assets/69320fd6-4e74-4b2e-93ca-9a00b3744d5a" />
+
 - 💧 Water — scattered droplets with fluid-like motion
+  <img width="1094" height="557" alt="image" src="https://github.com/user-attachments/assets/d9092dae-e172-4800-ac7e-cd669bb576ca" />
+
 - ⚡ Sparks — fast short-lived electric sparks
+  <img width="525" height="313" alt="image" src="https://github.com/user-attachments/assets/804b91d9-ce76-4395-affa-08c5d08cd565" />
+
 - 💨 Smoke — slow expanding smoke clouds
+  <img width="759" height="675" alt="image" src="https://github.com/user-attachments/assets/d5fc691e-0647-4208-a0fb-762013e602de" />
+
 - 🌈 Rainbow — colorful particles with HSV color cycling
+<img width="495" height="388" alt="image" src="https://github.com/user-attachments/assets/2ec6177d-d5c3-4e10-8142-3e20924d1dd4" />
 
 **Physics & Interactions**
 - Toggle **gravity** on/off
